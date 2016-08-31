@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_77"/>
+	<classpathentry kind="lib" path="C:/Users/hi/Desktop/tamil scan/tony/lib/java-ocr-api-15.3.0.3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Project/lib/poi-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Project/lib/openimage/core-image-1.3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Project/lib/openimage/core-math-1.3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Project/lib/openimage/core-feature-1.3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Project/lib/openimage/core-citation-1.3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Project/lib/openimage/faces-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Project/lib/openimage/core-1.3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Project/lib/openimage/apache-commons-sanselan.jar"/>
+	<classpathentry kind="lib" path="C:/Project/lib/openimage/sun-jai_core.jar"/>
+	<classpathentry kind="lib" path="C:/Project/lib/openimage/jai-codec-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Project/lib/log4j/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Project/lib/log4j/log4j-core-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Project/lib/openimage/object-detection-1.3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Project/lib/xmlpull-xpp3-1.1.4c.jar/xmlpull-xpp3-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="C:/Project/lib/openimage/machine-learning-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Project/lib/openimage/image-processing-1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
